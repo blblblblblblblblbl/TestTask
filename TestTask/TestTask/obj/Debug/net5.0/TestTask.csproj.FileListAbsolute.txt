@@ -1,0 +1,16 @@
+C:\Users\stitc\Documents\GitHub\TestTask\TestTask\TestTask\bin\Debug\net5.0\TestTask.exe
+C:\Users\stitc\Documents\GitHub\TestTask\TestTask\TestTask\bin\Debug\net5.0\TestTask.deps.json
+C:\Users\stitc\Documents\GitHub\TestTask\TestTask\TestTask\bin\Debug\net5.0\TestTask.runtimeconfig.json
+C:\Users\stitc\Documents\GitHub\TestTask\TestTask\TestTask\bin\Debug\net5.0\TestTask.runtimeconfig.dev.json
+C:\Users\stitc\Documents\GitHub\TestTask\TestTask\TestTask\bin\Debug\net5.0\TestTask.dll
+C:\Users\stitc\Documents\GitHub\TestTask\TestTask\TestTask\bin\Debug\net5.0\ref\TestTask.dll
+C:\Users\stitc\Documents\GitHub\TestTask\TestTask\TestTask\bin\Debug\net5.0\TestTask.pdb
+C:\Users\stitc\Documents\GitHub\TestTask\TestTask\TestTask\obj\Debug\net5.0\TestTask.csproj.AssemblyReference.cache
+C:\Users\stitc\Documents\GitHub\TestTask\TestTask\TestTask\obj\Debug\net5.0\TestTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stitc\Documents\GitHub\TestTask\TestTask\TestTask\obj\Debug\net5.0\TestTask.AssemblyInfoInputs.cache
+C:\Users\stitc\Documents\GitHub\TestTask\TestTask\TestTask\obj\Debug\net5.0\TestTask.AssemblyInfo.cs
+C:\Users\stitc\Documents\GitHub\TestTask\TestTask\TestTask\obj\Debug\net5.0\TestTask.csproj.CoreCompileInputs.cache
+C:\Users\stitc\Documents\GitHub\TestTask\TestTask\TestTask\obj\Debug\net5.0\TestTask.dll
+C:\Users\stitc\Documents\GitHub\TestTask\TestTask\TestTask\obj\Debug\net5.0\ref\TestTask.dll
+C:\Users\stitc\Documents\GitHub\TestTask\TestTask\TestTask\obj\Debug\net5.0\TestTask.pdb
+C:\Users\stitc\Documents\GitHub\TestTask\TestTask\TestTask\obj\Debug\net5.0\TestTask.genruntimeconfig.cache
