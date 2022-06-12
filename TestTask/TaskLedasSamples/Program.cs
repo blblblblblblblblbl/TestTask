@@ -23,7 +23,6 @@ namespace TaskLedasSamples
                 Console.WriteLine(intersection.ToString());
             }
             
-            new TaskLedasTest.UnitTest1().Test();
             Console.ReadKey();
         }
     }

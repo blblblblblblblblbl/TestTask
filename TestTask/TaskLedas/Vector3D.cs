@@ -137,37 +137,36 @@ namespace TaskLedas
             }
         }
 
-        //public static bool operator ==(Vector3D v1, Vector3D v2)
-        //{
-        //    if (v1 == null)
-        //    {
-        //        if (v2 is null)
-        //        {
-        //            return true;
-        //        }
-        //        else
-        //        {
-        //            return false;
-        //        }
-        //    }
-        //    else
-        //    {
-        //        if (v1.CompareTo(v2) == 0)
-        //        {
-        //            return true;
-        //        }
-        //        else
-        //        {
-        //            return false;
-        //        }
-        //    }
-        //}
+        public static bool operator ==(Vector3D v1, Vector3D v2)
+        {
+            if (v1 is null)
+            {
+                if (v2 is null)
+                {
+                    return true;
+                }
+                else
+                {
+                    return false;
+                }
+            }
+            else
+            {
+                if (v1.CompareTo(v2) == 0)
+                {
+                    return true;
+                }
+                else
+                {
+                    return false;
+                }
+            }
+        }
 
-        //public static bool operator !=(Vector3D v1, Vector3D v2)
-        //{
-        //    return !(v1 == v2);
-        //}
+        public static bool operator !=(Vector3D v1, Vector3D v2)
+        {
+            return !(v1 == v2);
+        }
 
-        //сделать операторы сравнения через compare to
     }
 }
