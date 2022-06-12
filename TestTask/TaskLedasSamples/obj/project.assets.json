@@ -1,0 +1,89 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "TaskLedasTest/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/TaskLedasTest.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TaskLedasTest.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TaskLedasTest/1.0.0": {
+      "type": "project",
+      "path": "../TaskLedasTest/TaskLedasTest.csproj",
+      "msbuildProject": "../TaskLedasTest/TaskLedasTest.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "TaskLedasTest >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\stitc\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\stitc\\Documents\\GitHub\\TestTask\\TestTask\\TaskLedasSamples\\TaskLedasSamples.csproj",
+      "projectName": "TaskLedasSamples",
+      "projectPath": "C:\\Users\\stitc\\Documents\\GitHub\\TestTask\\TestTask\\TaskLedasSamples\\TaskLedasSamples.csproj",
+      "packagesPath": "C:\\Users\\stitc\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\stitc\\Documents\\GitHub\\TestTask\\TestTask\\TaskLedasSamples\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\stitc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "C:\\Users\\stitc\\Documents\\GitHub\\TestTask\\TestTask\\TaskLedasTest\\TaskLedasTest.csproj": {
+              "projectPath": "C:\\Users\\stitc\\Documents\\GitHub\\TestTask\\TestTask\\TaskLedasTest\\TaskLedasTest.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
